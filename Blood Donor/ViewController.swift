@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var required: Int = 0
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
